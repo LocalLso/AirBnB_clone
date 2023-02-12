@@ -1,12 +1,12 @@
-AirBnB clone
+#	AirBnB clone
 
-Description:
+##Description:
 Web application
 
-The Console:
+##The Console:
 The console is a command line interpreter that permits management of the backend of HolbertonBnB. It can be used to handle and manipulate all classes utilized by the application.
 
-Using the console:
+##Using the console:
 1. How to start it:
 To use the HolbertonBnB console in interactive mode, run the file console.py by itself:
 
